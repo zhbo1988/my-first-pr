@@ -12,6 +12,6 @@ This project has a small Python script that prints a friendly greeting.
 python greet.py
 ```
 
-## Wellcome
+## Welcome
 
 Thanks for checking out this project!
